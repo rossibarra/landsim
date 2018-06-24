@@ -21,7 +21,7 @@ library(landsim)
 set.seed(42)
 ```
 
-Suppose, just for fun, that we have a population living on the [Sierpinski gasket](http://en.wikipedia.org/Sierpinski_gasket).
+Suppose, just for fun, that we have a population living on the [Sierpinski gasket](https://en.m.wikipedia.org/wiki/Sierpinski_triangle).
 There's a handy function to create this:
 ```{r setup_habitat}
 diam <- 1e4
